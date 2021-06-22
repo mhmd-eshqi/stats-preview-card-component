@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot_2021-06-22 Frontend Mentor Stats preview card component)
+[primary design](images/Screenshot_2021-06-22 Frontend Mentor Stats preview card component)
 
 ### Links
 
